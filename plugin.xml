@@ -6,7 +6,7 @@
     <keywords>Noise</keywords>
     <license>Apache 2.0 License</license>
     <engines>
-            <engine name="cordova" version="3.0.0" />
+            <engine name="cordova" version="3.8.0" />
     </engines>
         <js-module src="noise.js" name="noise">
             <clobbers target="carrier" />
